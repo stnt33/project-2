@@ -1,4 +1,4 @@
-#I used AI for a few lines here, but i made changes and learned the code.
+
 from tkinter import *
 import logic
 
